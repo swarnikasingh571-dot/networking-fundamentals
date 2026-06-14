@@ -1,0 +1,10 @@
+## 🎯 My Goals & Learning Roadmap
+*   [ ]  **Introduction:** Learn the Hacker Mindset and how networking connects to Security.
+*   [ ]  **Physical & Logical Addressing:**  Master **MAC Addresses** (Hardware) and **IP Addresses** (Software).
+*   [ ]  **IP Version Differences:**  Understand the transition and structural differences between **IPv4** and **IPv6**.
+*   [ ]  **Network Scopes:**  Differentiate between **Public IPs (WAN)** and **Private IPs (LAN)**.
+*   [ ]  **Network Rules:**  Master how local communication works and how **NAT** translates traffic.
+*   [ ]  **IP Allocation:**  Learn the mechanics of **Static IPs** vs. **Dynamic IPs (DHCP)**.
+*   [ ]  **Core Tools & Troubleshooting:**  Practice using live commands like ping, getmac, and ipconfig.
+*   [ ]  **Gamified Practice:**  Apply these concepts to beat **OverTheWire: Bandit** levels.
+*
